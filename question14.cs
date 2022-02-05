@@ -7,10 +7,6 @@ namespace w3_schools
 		  static void Main(string[] args)
 		  {
 
-
-
-
-
   //14. Write a C# program to convert from celsius degrees to Kelvin and Fahrenheit.
 
 			  Console.Write("Enter degree - ");
@@ -21,6 +17,6 @@ namespace w3_schools
 
 			  Console.WriteLine("{0} degree celsius is equivalent to {1} Kelvin.", degree, kelvin);
 			  Console.WriteLine("{0} degree celsius is equivalent to {1} Fahrenheit", degree, fahrenheit);
-      }
-    }
+      		}
+   	 }
  }
